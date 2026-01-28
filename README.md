@@ -3,7 +3,7 @@
 2. Clone the repository:
 --bash--
 git clone https://github.com/EngrJaen/Project_Scaper.git
-cd business-scraper
+cd Project_Scaper
 pip install -r requirement.txt
 
 
